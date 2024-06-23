@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 {
   "name": "admin-react",
-=======
- {
-  "name": "project_syncfusion_dashboard",
->>>>>>> eae88147bbf2eeccc9210562ec9c239d3c22f801
   "version": "0.1.0",
   "private": true,
   "dependencies": {
